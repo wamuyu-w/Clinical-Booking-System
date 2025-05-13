@@ -10,14 +10,12 @@ The system is built with referential integrity, normalization, and efficient rel
 ---
 
 ## 🛠️ How to Run / Setup the Project
-
 ### ✅ Prerequisites
-- **MySQL** installed (Download: https://dev.mysql.com/)
-- A database client like:
-  - MySQL CLI
-  - MySQL Workbench
-  - phpMyAdmin
+- **MySQL** 
+- A database client like MySQL Workbench
+  
 
+# Alternatively,you can import it either via CLI or GUI (adding it directly to workbench)
 ### ✅ Steps to Setup
 
 1. **Create the Database**
