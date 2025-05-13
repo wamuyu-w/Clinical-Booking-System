@@ -29,7 +29,7 @@ Alternatively,you can import it either via CLI or GUI (adding it directly to wor
     CREATE TABLE Specializations (
     specialization_id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100) NOT NULL UNIQUE
-);
+    );
 
     -- Create Doctors table
     CREATE TABLE Doctors (
