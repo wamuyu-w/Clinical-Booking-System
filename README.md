@@ -8,7 +8,7 @@ This is a relational database developed using **MySQL** to manage core clinic ac
 - Recording of medications prescribed to patients
 
 The system is built with referential integrity, normalization, and efficient relationships (1:1, 1:N, M:N) to reflect real-world clinic operations.
----
+
 
 ## 🛠️ How to Run / Setup the Project
 ### ✅ Prerequisites
