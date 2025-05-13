@@ -24,7 +24,7 @@ Alternatively,you can import it either via CLI or GUI (adding it directly to wor
     CREATE DATABASE ClinicBookingSystem;
     USE ClinicBookingSystem;
 
-1. **Create the tables**
+2. **Create the tables**
    ```sql
     CREATE TABLE Specializations (
     specialization_id INT AUTO_INCREMENT PRIMARY KEY,
@@ -80,3 +80,8 @@ Alternatively,you can import it either via CLI or GUI (adding it directly to wor
       FOREIGN KEY (appointment_id) REFERENCES Appointments(appointment_id),
       FOREIGN KEY (medication_id) REFERENCES Medications(medication_id)
     );
+3. Verify that the tables have been set up correctly.
+4. Optional - Add sample data.
+
+   📷 ERD Screenshot or Link
+Below is the Entity-Relationship Diagram for the Clinic Booking System: (
