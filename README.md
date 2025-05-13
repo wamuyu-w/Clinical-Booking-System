@@ -84,4 +84,5 @@ Alternatively,you can import it either via CLI or GUI (adding it directly to wor
 4. Optional - Add sample data.
 
    📷 ERD Screenshot or Link
-Below is the Entity-Relationship Diagram for the Clinic Booking System: (
+Below is the Entity-Relationship Diagram for the Clinic Booking System:
+<img width="631" alt="ERD-ClinicBookingSystem" src="https://github.com/user-attachments/assets/913963cc-7118-4a85-8eb9-3a152b1584f5" />
