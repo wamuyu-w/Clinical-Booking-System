@@ -1,4 +1,5 @@
-# Clinical-Booking-System -  a relational database developed using **MySQL** to manage core clinic activities. 
+# Clinical-Booking-System   
+This is a relational database developed using **MySQL** to manage core clinic activities. 
 # It supports:
 - Management of doctors and their specializations
 - Registration of patients and their demographic details
@@ -14,8 +15,8 @@ The system is built with referential integrity, normalization, and efficient rel
 - **MySQL** 
 - A database client like MySQL Workbench
   
+Alternatively,you can import it either via CLI or GUI (adding it directly to workbench)
 
-# Alternatively,you can import it either via CLI or GUI (adding it directly to workbench)
 ### ✅ Steps to Setup
 
 1. **Create the Database**
